@@ -1,6 +1,5 @@
-### My English Profile
-
----
+<details>
+<summary>Click here —— My English Profile</summary>
 
 ### Hi there 👋
 
@@ -38,9 +37,13 @@ Although I am just a beginner, I'm still hoping someone will give me a related j
 
 Feel free to send me an email! 👈🏻
 
+</details>
+
 ---
 
-### Hi there 👋
+### 我的个人简介
+
+### 嘿，你好 👋
 
 嘿！你竟然看到了这里，我是 **Fitia**，交个朋友吧~ (/ω＼)
 
