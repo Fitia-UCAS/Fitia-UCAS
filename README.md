@@ -22,7 +22,7 @@ Hey! Can't believe you saw this. I'm **Fitia**, let's make friends ~ (/ω＼)
 
 - Undergraduate student in **Chemical Engineering and Technology** from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn)
 
-[![Your Name's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fitia-UCAS&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://github.com/Fitia-UCAS)
+[![Fitia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fitia-UCAS&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://github.com/Fitia-UCAS)
 
 ### Major Areas 🧬 
 - Chemical Engineering, Mathematical Modeling, Writing, Programming, Software Development
@@ -65,7 +65,7 @@ Feel free to send me an email! 👈🏻
 - [中国科学院大学](https://www.ucas.ac.cn) 化学化工学院本科在读~  
 - 我的专业是 _化学工程与工艺_，所以前后端方面都是个小垃圾很合理吧 (´・ω・`)
 
-[![Your GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fitia-UCAS&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://github.com/Fitia-UCAS)
+[![Fitia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fitia-UCAS&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://github.com/Fitia-UCAS)
 
 ### 主要领域 🧬 
 
