@@ -1,3 +1,25 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163E99,50:24A6F2,100:BFDBFE&height=200&section=header&text=Fitia%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%E5%8C%96%E5%AD%A6%E5%B7%A5%E7%A8%8B%20%C2%B7%20%E6%95%B0%E6%A8%A1%20%C2%B7%20%E5%86%99%E4%BD%9C%20%C2%B7%20%E7%BC%96%E7%A8%8B&descSize=16&descAlignY=55" width="100%"/>
+
+<div>
+<img width="200" src="https://github.com/Fitia-UCAS.png" align="right" />
+
+- 名字：**Fitia**
+
+- 在读：**化学工程与工艺** · 中国科学院大学
+
+- 日常：**写代码**、**写作**、**数模**
+
+- 状态：**摸鱼中…**
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/%E5%8C%96%E5%B7%A5-163E99?style=for-the-badge"/> <img src="https://img.shields.io/badge/%E6%95%B0%E6%A8%A1-24A6F2?style=for-the-badge"/> <img src="https://img.shields.io/badge/%E5%86%99%E4%BD%9C-163E99?style=for-the-badge"/> <img src="https://img.shields.io/badge/%E7%BC%96%E7%A8%8B-24A6F2?style=for-the-badge"/>
+</p>
+</div>
+
+---
+
 <details>
 <summary>Click here —— My English Profile</summary>
 
@@ -80,3 +102,5 @@ Feel free to send me an email! 👈🏻
 虽然我是啥啥不会的小垃圾，但我还是痴心妄想有人能给我个科研所的相关工作（或者实习）QAQ！
 
 欢迎给我发邮件！👈🏻
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163E99,50:24A6F2,100:BFDBFE&height=140&section=footer" width="100%"/>
